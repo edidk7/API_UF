@@ -20,4 +20,4 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
 
-Route::apiResource('/uf', UFController::class);
+Route::apiResource('/uf', UFController::class); // Endpoint de los datos de todas las UF
