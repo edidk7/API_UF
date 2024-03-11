@@ -34,7 +34,8 @@ composer
 
 1. Descargar e instalar Laragon : https://laragon.org/download/
 2. Abrir Laragon y levantar servicio de BBDD
-3. Crear una base de datos llamada "ufcanalcero"
+3. Abrir MySQL por defecto
+4. Crear una base de datos llamada "ufcanalcero"
 
 ## Servicio Web API REST : Inicialización : 🚀
 
@@ -50,12 +51,11 @@ php artisan serve
 
 2. Iniciar Frontend.
 
-Comprobar ruta y en una nueva terminal ejecutar los comandos dentro de la carpeta "frontVue"
+En la raíz del proyecto entrar a la carpeta "frontVue" y en una nueva terminal ejecutar los siguientes comandos:
 
 ```
 npm install
 npm run dev
-
 ```
 
 
