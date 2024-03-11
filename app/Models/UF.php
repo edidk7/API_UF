@@ -10,5 +10,9 @@ class UF extends Model
     use HasFactory;
 
     protected $table = 'ufs';
-    protected $fillable = ['fecha', 'valor'];
+
+    protected $fillable = [
+        'fecha',
+        'valor'
+    ];
 }

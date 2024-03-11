@@ -20,5 +20,4 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
 
-Route::get('/uf', [UFController::class, 'obtenerDatosAPI']);
-
+Route::apiResource('/uf', UFController::class);
