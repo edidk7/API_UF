@@ -9,10 +9,10 @@ class UF extends Model
 {
     use HasFactory;
 
-    protected $table = 'ufs';
+    protected $table = 'ufs'; // Define el nombre de la tabla de la base de datos asociada al modelo UF.
 
-    protected $fillable = [
-        'fecha',
-        'valor'
+    protected $fillable = [ // Define los campos que se pueden asignar masivamente.
+        'fecha', 
+        'valor' 
     ];
 }
