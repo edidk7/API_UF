@@ -42,6 +42,7 @@ composer
 
 
 ```
+composer install
 php artisan migrate
 php artisan schedule:run
 php artisan serve
