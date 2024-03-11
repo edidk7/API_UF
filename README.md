@@ -18,6 +18,10 @@ Proyecto para visualizar valores de la UF al día.
   <img align="center" alt="laravel" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"/>
   <img align="center" alt="mysql" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
 
+## UF API de terceros : 📈
+
+* Valor UF : https://mindicador.cl/api/uf
+
 ## Dependencias: 🖌️
 
 * UI Components : https://getbootstrap.com/
