@@ -49,6 +49,8 @@ php artisan schedule:run
 php artisan serve
 ```
 
+## Frontend : Inicialización : 🚀
+
 2. Iniciar Frontend.
 
 En la raíz del proyecto entrar a la carpeta "frontVue" y en una nueva terminal ejecutar los siguientes comandos:
