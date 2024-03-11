@@ -50,7 +50,7 @@ php artisan serve
 
 2. Iniciar Frontend.
 
-Comprobar ruta y ejecutar comandos dentro de la carpeta "frontVue"
+Comprobar ruta y en una nueva terminal ejecutar los comandos dentro de la carpeta "frontVue"
 
 ```
 npm install
