@@ -25,7 +25,7 @@ Proyecto para visualizar valores de la UF al día.
 
 ## Gestor de paquetes: Instalación y ejecución:
 
-1. Descargar e instalar Composer : https://getcomposer.org/
+1. Descargar e instalar Composer : https://getcomposer.org/download
 2. Abrir consola y comprobar si esta instalado composer
 ```
 composer
