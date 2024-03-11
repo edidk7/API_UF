@@ -1,7 +1,7 @@
 # Canal Cero FullStack Test - Gráficos UF
 
 ## Breve descripción del proyecto: 
-Proyecto para registrar, eliminar o buscar contactos de la agenda.  
+Proyecto para visualizar valores de la UF al día.
 
 ## Realizado
 
@@ -12,11 +12,11 @@ Proyecto para registrar, eliminar o buscar contactos de la agenda.
 
 ## Tecnologías: ✨
 
-* <img align="center" alt="bootstrap" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
-* <img align="center" alt="javascript" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-* <img align="center" alt="vue" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/vue/vue-original.svg"/>
-* <img align="center" alt="npm" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"/>
-* <img align="center" alt="laravel" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"/>
+<img align="center" alt="bootstrap" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/> <img align="center" alt="javascript" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="vuejs" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"/>
+  <img align="center" alt="npm" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"/>
+  <img align="center" alt="laravel" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"/>
+  <img align="center" alt="mysql" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
 
 ## Dependencias: 🖌️
 
