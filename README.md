@@ -1,4 +1,4 @@
-# Previred Frontend Test - Agenda de contactos
+# Canal Cero FullStack Test - Gráficos UF
 
 ## Breve descripción del proyecto: 
 Proyecto para registrar, eliminar o buscar contactos de la agenda.  
@@ -8,7 +8,7 @@ Proyecto para registrar, eliminar o buscar contactos de la agenda.
 1. Guardar datos de API de terceros en BBDD.
 2. Creación API REST.
 3. Consumo de API REST.
-4. Renderizar datos en graficos.
+4. Renderizar datos en gráficos.
 
 ## Tecnologías: ✨
 
@@ -20,13 +20,13 @@ Proyecto para registrar, eliminar o buscar contactos de la agenda.
 
 ## Dependencias: 🖌️
 
-* UI Components : https://ant.design/
+* UI Components : https://getbootstrap.com/
 
 
 ## Gestor de paquetes: Instalación y ejecución:
 
 1. Descargar e instalar Composer : https://getcomposer.org/
-2. Comprobar si esta instalado composer
+2. Abrir consola y comprobar si esta instalado composer
 ```
 composer
 ```
