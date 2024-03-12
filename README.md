@@ -44,10 +44,14 @@ composer
 3. Abrir MySQL por defecto
 4. Crear una base de datos llamada "ufcanalcero"
 
-### Servicio Web API REST : Inicialización 
+### Clonar repositorio : Descargar aplicación web 
 
-1. Iniciar Backend. 
+1. Abrir consola y pegar ruta : https://github.com/edidk7/LaravelVue_Test.git
+2. Entrar a la carpeta del proyecto
 
+### Servicio Web API REST : Inicialización Backend
+
+1. Abrir consola y ejecutar los siguientes comandos: 
 
 ```
 composer install
@@ -56,10 +60,10 @@ php artisan schedule:run
 php artisan serve
 ```
 
-### Frontend : Inicialización
-2. Iniciar Frontend.
+### App Web SPA : Inicialización Frontend
 
-En la raíz del proyecto entrar a la carpeta "frontVue" y en una nueva terminal ejecutar los siguientes comandos:
+1. En la raíz del proyecto entrar a la carpeta "frontVue"
+2. En una nueva consola ejecutar los siguientes comandos:
 
 ```
 npm install
