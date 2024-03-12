@@ -34,6 +34,9 @@ export default {
     components: {
         apexchart: ApexCharts,
     },
+    created() { 
+        this.UfLoad();
+    },     
     mounted() {
         console.log("Called OK!");
     },
