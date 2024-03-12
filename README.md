@@ -3,7 +3,7 @@
 ## Breve descripción del proyecto: 
 Proyecto para visualizar valores de la UF al día.
 
-## Realizado
+## Realizado: 🆗
 
 1. Guardar datos de API de terceros en BBDD.
 2. Creación API REST.
@@ -18,30 +18,33 @@ Proyecto para visualizar valores de la UF al día.
   <img align="center" alt="laravel" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"/>
   <img align="center" alt="mysql" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
 
-## UF API de terceros : 📈
+## UF API de terceros: 📈
 
 * Valor UF : https://mindicador.cl/api/uf
 
-## Dependencias: 🖌️
+## Dependencias: 🛠
 
 * UI Components : https://getbootstrap.com/
+* Gestor de datos : https://vuex.vuejs.org/
+
+## Ejecutar Aplicación Web: 🚀
 
 
-## Gestor de paquetes: Instalación y ejecución:
+### Gestor de paquetes: Instalación y ejecución:
 
 1. Descargar e instalar Composer : https://getcomposer.org/download
-2. Abrir consola y comprobar si esta instalado composer
+2. Abrir consola y comprobar si esta instalado composer ejecutando el siguiente comando:
 ```
 composer
 ```
-## Base de datos : Instalación y ejecución:
+### Base de datos : Instalación y ejecución
 
 1. Descargar e instalar Laragon : https://laragon.org/download/
 2. Abrir Laragon y levantar servicio de BBDD
 3. Abrir MySQL por defecto
 4. Crear una base de datos llamada "ufcanalcero"
 
-## Servicio Web API REST : Inicialización : 🚀
+### Servicio Web API REST : Inicialización 
 
 1. Iniciar Backend. 
 
@@ -53,8 +56,7 @@ php artisan schedule:run
 php artisan serve
 ```
 
-## Frontend : Inicialización : 🚀
-
+### Frontend : Inicialización
 2. Iniciar Frontend.
 
 En la raíz del proyecto entrar a la carpeta "frontVue" y en una nueva terminal ejecutar los siguientes comandos:
