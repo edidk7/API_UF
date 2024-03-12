@@ -68,10 +68,18 @@ php artisan serve
 
 1. En la raíz del proyecto entrar a la carpeta "frontVue"
 2. En una nueva consola ejecutar los siguientes comandos:
-
-```
+ ```
 npm install
 npm run dev
 ```
+3. La consola nos entregara una nueva ruta localhost para levantar la aplicación web por ej:
+ ```
+ http://localhost:5174/
+```
+
+### Resultado Final : 💻
+
+![image](https://github.com/edidk7/LaravelVue_Test/assets/16347165/690fa4f4-ed32-4bc6-a4ef-1d7b5f6a2d65)
+
 
 
