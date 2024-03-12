@@ -46,8 +46,12 @@ composer
 
 ### Clonar repositorio : Descargar aplicación web 
 
-1. Abrir consola y pegar ruta : https://github.com/edidk7/LaravelVue_Test.git
-2. Entrar a la carpeta del proyecto
+1. copiar ruta : https://github.com/edidk7/LaravelVue_Test.git
+2. Abrir consola y ejecutar:
+```
+git clone https://github.com/edidk7/LaravelVue_Test.git
+```
+3. Entrar a la carpeta del proyecto
 
 ### Servicio Web API REST : Inicialización Backend
 
